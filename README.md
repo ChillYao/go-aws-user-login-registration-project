@@ -18,22 +18,26 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#system-diagram">System Diagram</a></li>
+        <li><a href="#aws-cloud-diagram">AWS Cloud Diagram</a></li>
+        <li><a href="#user-flow-chart">User Flow Chart</a></li>
       </ul>
     </li>
+    <li><a href="#built-with">Built With</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#install-golang">Install Golang</a></li>
+        <li><a href="#get-latest-version-of-aws">Get latest Version of AWS CLI</a></li>
+        <li><a href="#aws-user-permission">AWS User Permission</a></li>
+        <li><a href="#configure-aws-cli">Configure AWS CLI
+</a></li>
+        <li><a href="#install-cdk">Install CDK</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -59,7 +63,7 @@ This Project is built by Golang and AWS. The user can be registered by `/registe
 
 
 
-### Built With
+## Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
